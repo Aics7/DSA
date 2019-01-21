@@ -1,2 +1,2 @@
-# ICP
-Intermediate Computer Programming Projects
+# DSA
+Data Structures and Algorithms
